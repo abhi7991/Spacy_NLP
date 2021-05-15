@@ -1,8 +1,10 @@
 # Spacy_NLP
-Using Spacys  Entity Ruler to tag words.
+Using Spacys  Entity Ruler to tag words. 
 
-This code uses spacys entity ruler to tag words from media clippings/published reports.
-I am trying to find all "NEW BUSINESS ACQUISITIONS"/"DEALS" over the last 4 years 
+A simple understanding of NLP using spacy.
+
+This code uses spacys entity ruler in python to tag words from media clippings/published reports.
+I am trying to find all "NEW BUSINESS ACQUISITIONS"/"DEALS" over the last 4 years. 
 
 Some of the pre-requisites is
 1. Installing spacy
